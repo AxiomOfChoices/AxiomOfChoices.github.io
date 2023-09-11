@@ -1,1 +1,1 @@
-window.location.replace('./graph/');
+window.location.replace('./notes/');
